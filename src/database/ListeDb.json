@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "Slug": "democratici-e-progressisti",
+        "Nome": "Democratici e Progressisti",
+        "Immagine": "No",
+        "Collocazione": "Centro-Sinistra",
+        "Coalizione": "Dp-Si/Ev",
+        "Componenti": [
+            {
+                "partyId": 1,
+                "memberNome": "Articolo Uno",
+                "Sito":"https://articolo1mdp.it/" 
+            }
+        ],
+        "Siti": [
+            "https://www.democraziasolidale.it/",
+            "https://www.partitodemocratico.it/",
+            "https://www.partitosocialista.it/"
+        ],
+        "Programma": false
+    },
+    {
+        "id": 2,
+        "Slug": "nuove-energie",
+        "Nome": "Nuove Energie",
+        "Immagine": "NE-banner.jpg",
+        "Collocazione": "Sinistra",
+        "Coalizione": "Dp-Si/Ev",
+        "Componenti": [
+            "Europa Verde",
+            "Sinistra Italiana"
+        ],
+        "Siti": [
+            "https://europaverde.it/",
+            "https://www.sinistraitaliana.si/"
+        ],
+        "Programma": false
+    }
+]

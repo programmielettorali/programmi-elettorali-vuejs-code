@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "Slug": "articolo-uno",
+        "Nome": "Articolo Uno",
+        "Tipo": "Partito",
+        "Immagine": "Art1-banner.jpg",
+        "Collocazione": "Sinistra",
+        "Lista": "Democratici e Progressisti",
+        "Coalizione": "DP-Si/Ev",
+        "Programma": "https://articolo1mdp.it/assets/uploads/2022/07/linee-programmatiche1.pdf"
+    },
+    {
+        "id": 2,
+        "Slug": "azione-piueuropa",
+        "Nome": "Azione/+Europa",
+        "Tipo": "Lista",
+        "Immagine": "PattoRep-banner.jpg",
+        "Collocazione": "Centro",
+        "Componenti": "Azione, +Europa",
+        "Coalizione": "Nessuna",
+        "Programma": "https://issuu.com/azione_it/docs/patto_repubblicano_-_appello"
+    },
+    {
+        "id": 8,
+        "Slug": "cambiamo",
+        "Nome": "Cambiamo!",
+        "Tipo": "Partito",
+        "Immagine": "C-banner.jpg",
+        "Collocazione": "Centro-Destra",
+        "Lista": "Italia al Centro",
+        "Coalizione": "Fi-Fdi-Ln-IaC",
+        "Programma": "https://cambiamo.eu/manifesto-cambiamo/"
+    },
+    {
+        "id": 3,
+        "Nome": "Europa Verde",
+        "Slug": "europa-verde",
+        "Tipo": "Partito",
+        "Immagine": "EV-banner.jpg",
+        "Collocazione": "Sinistra",
+        "Lista": "Nuove Energie",
+        "Coalizione": "DP-Si/Ev",
+        "Programma": "https://europaverde.it/programma/"
+    },
+    {
+        "id": 11,
+        "Nome": "Forza Italia",
+        "Slug": "forza-italia",
+        "Tipo": "Partito",
+        "Immagine": "FI-banner.jpg",
+        "Collocazione": "Centro-Destra",
+        "Lista": "Nessuna",
+        "Coalizione": "Fi-Fdi-Ln-IaC",
+        "Programma": "http://www.forzaitalia.it/"
+    },
+    {
+        "id": 4,
+        "Slug": "italia-sovrana-e-popolare",
+        "Nome": "Italia Sovrana e Popolare",
+        "Tipo": "Lista",
+        "Immagine": "ISeP-banner.jpg",
+        "Collocazione": "Trasversale",
+        "Componenti": "PC-AC-RlI-RR-IU",
+        "Coalizione": "Nessuna",
+        "Programma": "https://www.orticaweb.it/italia-sovrana-e-popolare-il-programma/"
+    },
+    {
+        "id": 10,
+        "Slug": "movimento-cinque-stelle",
+        "Nome": "Movimento 5 Stelle",
+        "Tipo": "Partito",
+        "Immagine": "M5S-banner.jpg",
+        "Collocazione": "Trasversale",
+        "Lista": "Nessuna",
+        "Coalizione": "Nessuna",
+        "Programma": "https://www.movimento5stelle.eu/i-nostri-risultati-sono-la-base-da-cui-ripartire-dilloadaltavoce/"
+    },
+    {
+        "id": 5,
+        "Slug": "noi-con-litalia",
+        "Nome": "Noi con l'Italia",
+        "Tipo": "Partito",
+        "Immagine": "NclI-banner.jpg",
+        "Collocazione": "Centro-Destra",
+        "Lista": "Italia al Centro",
+        "Coalizione": "Fi-Fdi-Ln-IaC",
+        "Programma": "https://www.noiconlitalia.it/elezioni-politiche-2018/"
+    },
+    {
+        "id": 9,
+        "Slug": "partito-animalista-italiano",
+        "Nome": "Partito Animalista Italiano",
+        "Tipo": "Partito",
+        "Immagine": "Pai-banner.jpg",
+        "Collocazione": "Sinistra",
+        "Lista": "Nessuna",
+        "Coalizione": "Nessuna",
+        "Programma": "http://www.partitoanimalista.it/PROGRAMMA_Partito_Animalista_Elezioni_Europee_2019_AP_EU.pdf"
+    },
+    {
+        "id": 6,
+        "Slug": "partito-socialista-italiano",
+        "Nome": "Partito Socialista Italiano",
+        "Tipo": "Partito",
+        "Immagine": "Psi-banner.jpg",
+        "Collocazione": "Centro-Sinistra",
+        "Lista": "Democratici e Progressisti",
+        "Coalizione": "DP-Si/Ev",
+        "Programma": "https://www.partitosocialista.it/wp-content/uploads/2021/11/Documento-finale-conferenza-programmatica.pdf"
+    },
+    {
+        "id": 7,
+        "Slug": "verde-e-popolare",
+        "Nome": "Verde è Popolare",
+        "Tipo": "Partito",
+        "Immagine": "VeP-banner.jpg",
+        "Collocazione": "Centro",
+        "Lista": "Nessuna",
+        "Coalizione": "Nessuna",
+        "Programma": "https://www.verdeepopolare.it/programma/"
+    }
+]
