@@ -28,9 +28,20 @@
         "Tipo": "Partito",
         "Immagine": "C-banner.jpg",
         "Collocazione": "Centro-Destra",
-        "Lista": "Italia al Centro",
-        "Coalizione": "Fi-Fdi-Ln-IaC",
+        "Lista": "Noi moderati",
+        "Coalizione": "Fi-Fdi-L-NM",
         "Programma": "https://cambiamo.eu/manifesto-cambiamo/"
+    },
+    {
+        "id": 12,
+        "Slug": "centro-destra",
+        "Nome": "Centro Destra",
+        "Tipo": "Coalizione",
+        "Immagine": "centro-destra-banner.jpg",
+        "Collocazione": "Centro-Destra",
+        "Componenti": "Fi-Fdi-L-NM",
+        "Candidato": "Giorgia Meloni",
+        "Programma": "https://www.ansa.it/documents/1660243246870_CENTRODESTRA.pdf"
     },
     {
         "id": 3,
@@ -51,7 +62,7 @@
         "Immagine": "FI-banner.jpg",
         "Collocazione": "Centro-Destra",
         "Lista": "Nessuna",
-        "Coalizione": "Fi-Fdi-Ln-IaC",
+        "Coalizione": "Fi-Fdi-L-NM",
         "Programma": "http://www.forzaitalia.it/"
     },
     {
@@ -64,6 +75,17 @@
         "Componenti": "PC-AC-RlI-RR-IU",
         "Coalizione": "Nessuna",
         "Programma": "https://www.orticaweb.it/italia-sovrana-e-popolare-il-programma/"
+    },
+    {
+        "id": 13,
+        "Nome": "Lega",
+        "Slug": "lega",
+        "Tipo": "Partito",
+        "Immagine": "Lega-banner.jpg",
+        "Collocazione": "Destra",
+        "Lista": "Nessuna",
+        "Coalizione": "Fi-Fdi-L-NM",
+        "Programma": "https://static.legaonline.it/files/Programma_Lega_2022.pdf"
     },
     {
         "id": 10,
@@ -83,8 +105,8 @@
         "Tipo": "Partito",
         "Immagine": "NclI-banner.jpg",
         "Collocazione": "Centro-Destra",
-        "Lista": "Italia al Centro",
-        "Coalizione": "Fi-Fdi-Ln-IaC",
+        "Lista": "Noi Moderati",
+        "Coalizione": "Fi-Fdi-L-NM",
         "Programma": "https://www.noiconlitalia.it/elezioni-politiche-2018/"
     },
     {
@@ -116,8 +138,8 @@
         "Tipo": "Partito",
         "Immagine": "VeP-banner.jpg",
         "Collocazione": "Centro",
-        "Lista": "Nessuna",
-        "Coalizione": "Nessuna",
+        "Lista": "in Forza Italia",
+        "Coalizione": "Fi-Fdi-L-NM",
         "Programma": "https://www.verdeepopolare.it/programma/"
     }
 ]
