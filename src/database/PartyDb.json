@@ -66,6 +66,17 @@
         "Programma": "http://www.forzaitalia.it/"
     },
     {
+        "id": 14,
+        "Nome": "Fratelli d'Italia",
+        "Slug": "fratelli-ditalia",
+        "Tipo": "Partito",
+        "Immagine": "FdI-banner.jpg",
+        "Collocazione": "Destra",
+        "Lista": "Nessuna",
+        "Coalizione": "Fi-Fdi-L-NM",
+        "Programma": "https://www.fratelli-italia.it/programma/"
+    },
+    {
         "id": 4,
         "Slug": "italia-sovrana-e-popolare",
         "Nome": "Italia Sovrana e Popolare",
