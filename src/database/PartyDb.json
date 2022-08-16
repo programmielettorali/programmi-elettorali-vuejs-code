@@ -1,5 +1,16 @@
 [
     {
+        "id": 16,
+        "Slug": "alleanza-verdi-sinistra",
+        "Nome": "Alleanza Verdi Sinistra",
+        "Tipo": "Lista",
+        "Immagine": "NE-banner.jpg",
+        "Collocazione": "Sinistra",
+        "Componenti": "Sinitra Italiana, Europa Verde",
+        "Coalizione": "DP-ASV",
+        "Programma": "https://verdisinistra.it/programma-alleanza-verdi-e-sinistra/"
+    },
+    {
         "id": 1,
         "Slug": "articolo-uno",
         "Nome": "Articolo Uno",
@@ -7,7 +18,7 @@
         "Immagine": "Art1-banner.jpg",
         "Collocazione": "Sinistra",
         "Lista": "Democratici e Progressisti",
-        "Coalizione": "DP-Si/Ev",
+        "Coalizione": "DP-ASV",
         "Programma": "https://articolo1mdp.it/assets/uploads/2022/07/linee-programmatiche1.pdf"
     },
     {
@@ -50,8 +61,8 @@
         "Tipo": "Partito",
         "Immagine": "EV-banner.jpg",
         "Collocazione": "Sinistra",
-        "Lista": "Nuove Energie",
-        "Coalizione": "DP-Si/Ev",
+        "Lista": "Alleanza Verdi - Sinistar",
+        "Coalizione": "DP-ASV",
         "Programma": "https://europaverde.it/programma/"
     },
     {
@@ -139,8 +150,30 @@
         "Immagine": "Psi-banner.jpg",
         "Collocazione": "Centro-Sinistra",
         "Lista": "Democratici e Progressisti",
-        "Coalizione": "DP-Si/Ev",
+        "Coalizione": "DP-ASV",
         "Programma": "https://www.partitosocialista.it/wp-content/uploads/2021/11/Documento-finale-conferenza-programmatica.pdf"
+    },
+    {
+        "id": 15,
+        "Nome": "Possibile",
+        "Slug": "possibile",
+        "Tipo": "Partito",
+        "Immagine": "Po-banner.jpg",
+        "Collocazione": "Sinistra",
+        "Lista": "Alleanza Verdi - Sinistar",
+        "Coalizione": "DP-ASV",
+        "Programma": "https://www.possibile.com/wp-content/uploads/2022/08/Possibile_Italia_Programma_2022-1.pdf"
+    },
+    {
+        "id": 17,
+        "Slug": "unione-popolare",
+        "Nome": "Unione Popolare",
+        "Tipo": "Lista",
+        "Immagine": "UP-banner.jpg",
+        "Collocazione": "Sinistra",
+        "Componenti": "PRC-PaP-M-DemA",
+        "Coalizione": "Nessuna",
+        "Programma": "https://unionepopolare.blog/programma/"
     },
     {
         "id": 7,
