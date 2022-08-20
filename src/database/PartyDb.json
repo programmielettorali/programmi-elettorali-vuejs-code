@@ -23,14 +23,14 @@
     },
     {
         "id": 2,
-        "Slug": "azione-piueuropa",
-        "Nome": "Azione/+Europa",
+        "Slug": "azione-italiaviva",
+        "Nome": "Azione/Italia Viva",
         "Tipo": "Lista",
-        "Immagine": "PattoRep-banner.jpg",
+        "Immagine": "AIV-banner.jpg",
         "Collocazione": "Centro",
-        "Componenti": "Azione, +Europa",
+        "Componenti": "Azione, Italia Viva",
         "Coalizione": "Nessuna",
-        "Programma": "https://issuu.com/azione_it/docs/patto_repubblicano_-_appello"
+        "Programma": "https://drive.google.com/file/d/1JTGjW7d7ZgNUDuNv2wdGQy-_mWvelC3N/view"
     },
     {
         "id": 8,
