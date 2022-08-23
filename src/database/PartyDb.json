@@ -165,6 +165,17 @@
         "Programma": "https://www.partitosocialista.it/wp-content/uploads/2021/11/Documento-finale-conferenza-programmatica.pdf"
     },
     {
+        "id": 19,
+        "Nome": "Più Europa",
+        "Slug": "piu-europa",
+        "Tipo": "Partito",
+        "Immagine": "PE-banner.jpg",
+        "Collocazione": "Centro",
+        "Lista": "Nessuna",
+        "Coalizione": "DP-ASV-+E-IC",
+        "Programma": "https://www.piueuropa.eu/una_generazione_avanti_il_programma_elettorale_di_europa"
+    },
+    {
         "id": 15,
         "Nome": "Possibile",
         "Slug": "possibile",
