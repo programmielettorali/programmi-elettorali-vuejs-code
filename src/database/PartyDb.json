@@ -85,7 +85,7 @@
         "Collocazione": "Centro-Destra",
         "Lista": "Nessuna",
         "Coalizione": "Fi-Fdi-L-NM",
-        "Programma": "http://www.forzaitalia.it/"
+        "Programma": "https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/43/(43_progr_2_)-pdfa_-_programma_forza_italia_politiche_2022.pdf"
     },
     {
         "id": 14,
@@ -96,7 +96,7 @@
         "Collocazione": "Destra",
         "Lista": "Nessuna",
         "Coalizione": "Fi-Fdi-L-NM",
-        "Programma": "https://www.fratelli-italia.it/programma/"
+        "Programma": "https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/68/(68_progr_2_)-programma.pdf"
     },
     {
         "id": 4,
@@ -108,6 +108,17 @@
         "Componenti": "PC-AC-RlI-RR-IU",
         "Coalizione": "Nessuna",
         "Programma": "https://www.orticaweb.it/italia-sovrana-e-popolare-il-programma/"
+    },
+    {
+        "id": 21,
+        "Slug": "italiexit",
+        "Nome": "Italiexit",
+        "Tipo": "Partito",
+        "Immagine": "IEX-banner.jpg",
+        "Collocazione": "Destra",
+        "Lista": "Nessuna",
+        "Coalizione": "Nessuna",
+        "Programma": "https://italexitperlitalia.it/wp-content/uploads/2022/08/programma.pdf"
     },
     {
         "id": 13,
@@ -129,18 +140,18 @@
         "Collocazione": "Trasversale",
         "Lista": "Nessuna",
         "Coalizione": "Nessuna",
-        "Programma": "https://www.movimento5stelle.eu/i-nostri-risultati-sono-la-base-da-cui-ripartire-dilloadaltavoce/"
+        "Programma": "https://www.movimento5stelle.eu/elezioni-politiche-2022-programma-m5s/"
     },
     {
         "id": 5,
-        "Slug": "noi-con-litalia",
-        "Nome": "Noi con l'Italia",
-        "Tipo": "Partito",
-        "Immagine": "NclI-banner.jpg",
+        "Slug": "noi-moderati",
+        "Nome": "Noi Moderati",
+        "Tipo": "Lista",
+        "Immagine": "NM-banner.jpg",
         "Collocazione": "Centro-Destra",
-        "Lista": "Noi Moderati",
+        "Componenti": "NcL/IaC-CI/UdC",
         "Coalizione": "Fi-Fdi-L-NM",
-        "Programma": "https://www.noiconlitalia.it/elezioni-politiche-2018/"
+        "Programma": "https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/48/(48_progr_2_)-programma.pdf"
     },
     {
         "id": 9,
@@ -207,5 +218,16 @@
         "Lista": "in Forza Italia",
         "Coalizione": "Fi-Fdi-L-NM",
         "Programma": "https://www.verdeepopolare.it/programma/"
+    },
+    {
+        "id": 20,
+        "Slug": "vita",
+        "Nome": "Vita",
+        "Tipo": "Partito",
+        "Immagine": "Vi-banner.jpg",
+        "Collocazione": "Trasversale",
+        "Lista": "Nessuna",
+        "Coalizione": "Nessuna",
+        "Programma": "https://www.votalavita.it/programma/"
     }
 ]
